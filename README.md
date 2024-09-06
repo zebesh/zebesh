@@ -19,4 +19,4 @@ I am DevOps? and i like it!
 ---
 [![](https://visitcount.itsvg.in/api?id=zebesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Zebesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zebesh)](https://github.com/zebesh)
+[![Zebesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zebesh&layout=compact&langs_count=20)](https://github.com/zebesh)
